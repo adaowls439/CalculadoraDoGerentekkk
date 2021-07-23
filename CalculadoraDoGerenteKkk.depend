@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627034748 source:d:\adaow\documentos\codeblock\calculadora do gerente\calculadoradogerentekkk\main.c
+	<stdio.h>
+	<time.h>
+	<locale.h>
+
